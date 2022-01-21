@@ -1,4 +1,4 @@
-package backjun.RGB거리_1149;
+package baekjoon.RGB거리_1149;
 
 import java.io.*;
 import java.util.StringTokenizer;

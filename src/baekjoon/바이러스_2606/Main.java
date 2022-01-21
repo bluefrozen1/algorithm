@@ -1,4 +1,4 @@
-package backjun.바이러스_2606;
+package baekjoon.바이러스_2606;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

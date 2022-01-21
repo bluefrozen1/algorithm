@@ -1,4 +1,4 @@
-package backjun.DFS와BFS_1260;
+package baekjoon.DFS와BFS_1260;
 
 import java.io.*;
 import java.util.LinkedList;
