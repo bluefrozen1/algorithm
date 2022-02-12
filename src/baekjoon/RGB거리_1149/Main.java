@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        final String PATH = "src/backjun.RGB거리_1149/input.txt";
+        final String PATH = "src/baekjoon.RGB거리_1149/input.txt";
         System.setIn(new FileInputStream(PATH));
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine());

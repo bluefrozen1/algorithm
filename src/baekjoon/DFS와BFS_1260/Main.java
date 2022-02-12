@@ -13,7 +13,7 @@ public class Main {
     static boolean[] visited;
 
     public static void main(String[] args) throws Exception {
-        final String PATH = "src/backjun.DFS와BFS/input.txt";
+        final String PATH = "src/baekjoon.DFS와BFS/input.txt";
         System.setIn(new FileInputStream(PATH));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

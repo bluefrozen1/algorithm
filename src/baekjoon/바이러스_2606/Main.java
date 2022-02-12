@@ -13,7 +13,7 @@ public class Main {
     static int C,L;
 
     public static void main(String[] args) throws Exception {
-        final String PATH = "src/backjun.바이러스/input.txt";
+        final String PATH = "src/baekjoon.바이러스/input.txt";
         System.setIn(new FileInputStream(PATH));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
