@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class Main {
 
     // https://www.acmicpc.net/problem/1260
-//test
+//test1234
     static int[][] arr;
     static boolean[] visited;
 
